@@ -16,13 +16,13 @@
     display: none;
 }
 .img-poster{
-    cursor: pointer;
+    cursor: grab;
     max-height: 200px;
     margin-right: 10px;
     border-radius: 10px;
 }
 .smallposter{
-    cursor: pointer;
+    cursor: grab;
     max-height: 120px;
     margin-right: 10px;
     border-radius: 10px;
