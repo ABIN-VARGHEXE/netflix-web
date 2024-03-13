@@ -22,7 +22,7 @@
     border-radius: 10px;
 }
 .smallposter{
-    cursor: grab;
+    cursor: pointer;
     max-height: 120px;
     margin-right: 10px;
     border-radius: 10px;
